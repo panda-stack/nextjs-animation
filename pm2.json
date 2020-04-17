@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "serverbyzlatin",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}

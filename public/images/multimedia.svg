@@ -1,0 +1,29 @@
+<svg id="multimedia" xmlns="http://www.w3.org/2000/svg" width="61" height="46.469" viewBox="0 0 61 46.469">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff3939;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #c90232;
+      }
+
+      .cls-3 {
+        fill: #ececf1;
+      }
+
+      .cls-4 {
+        fill: #e2e2e7;
+      }
+    </style>
+  </defs>
+  <path id="Path_1190" data-name="Path 1190" class="cls-1" d="M3781.29,448h-43.13a8.938,8.938,0,0,0-8.94,8.935v28.594a8.938,8.938,0,0,0,8.94,8.935h43.13a8.935,8.935,0,0,0,8.93-8.935V456.935A8.935,8.935,0,0,0,3781.29,448Z" transform="translate(-3729.22 -448)"/>
+  <path id="Path_1191" data-name="Path 1191" class="cls-2" d="M3790.22,456.935v28.594a8.935,8.935,0,0,1-8.93,8.935h-21.57V448h21.57A8.935,8.935,0,0,1,3790.22,456.935Z" transform="translate(-3729.22 -448)"/>
+  <path id="Path_1192" data-name="Path 1192" class="cls-3" d="M3759.72,464.226l-8.93-4.968v24.305l8.93-5.147,12.58-7.22Z" transform="translate(-3729.22 -448)"/>
+  <path id="Path_1193" data-name="Path 1193" class="cls-4" d="M3772.3,471.2l-12.58,7.22v-14.19Z" transform="translate(-3729.22 -448)"/>
+</svg>

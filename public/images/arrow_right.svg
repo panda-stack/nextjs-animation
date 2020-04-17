@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.25" height="29.25" viewBox="0 0 29.25 29.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Icon_ionic-ios-arrow-dropleft-circle" data-name="Icon ionic-ios-arrow-dropleft-circle" class="cls-1" d="M2401.62,4972a14.625,14.625,0,1,1-14.62,14.62A14.628,14.628,0,0,1,2401.62,4972Zm-3.05,20.33a1.35,1.35,0,0,0,.96,2.31,1.34,1.34,0,0,0,.96-0.4l6.61-6.63a1.353,1.353,0,0,0-.04-1.87l-6.71-6.73a1.358,1.358,0,0,0-1.92,1.92l5.76,5.69Z" transform="translate(-2387 -4972)"/>
+</svg>

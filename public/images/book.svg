@@ -1,0 +1,47 @@
+<svg id="human-rights" xmlns="http://www.w3.org/2000/svg" width="44.19" height="58" viewBox="0 0 44.19 58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #575f64;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #e87cff;
+      }
+
+      .cls-3 {
+        fill: #c762ed;
+      }
+
+      .cls-4 {
+        fill: #efe2dd;
+      }
+
+      .cls-5 {
+        fill: #cdbfba;
+      }
+
+      .cls-6 {
+        fill: #fff5f5;
+      }
+
+      .cls-7 {
+        fill: #00c0f1;
+      }
+    </style>
+  </defs>
+  <path id="Path_1158" data-name="Path 1158" class="cls-1" d="M3734.71,587.947l-3.4-5.948a6.8,6.8,0,0,0-6.79,6.8v40.895l10.19-1.086V587.947Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1159" data-name="Path 1159" class="cls-2" d="M3768.69,582v40.895l-4.31,2.549L3750,626.972l-18.69,2V582h37.38Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1160" data-name="Path 1160" class="cls-3" d="M3768.69,582v40.895l-4.31,2.549L3750,626.972V582h18.69Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1161" data-name="Path 1161" class="cls-4" d="M3768.69,626.292l-2.99,4.113,2.99,2.684v3.4h-37.38a6.8,6.8,0,0,1,0-13.594h3.4l2.89,2.209h7.95l2.75-2.209h20.39v3.4Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1162" data-name="Path 1162" class="cls-5" d="M3768.69,626.292l-2.99,4.113,2.99,2.684v3.4H3750V622.894h18.69v3.4Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1163" data-name="Path 1163" class="cls-6" d="M3768.69,626.292v6.8h-37.38a3.4,3.4,0,1,1,0-6.8h37.38Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1164" data-name="Path 1164" class="cls-7" d="M3748.3,640l-6.79-3.286-6.8,3.286V622.894h13.59V640Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1165" data-name="Path 1165" class="cls-2" d="M3741.51,616.1h16.99v3.4h-16.99v-3.4Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1168" data-name="Path 1168" class="cls-3" d="M3750,616.1h8.5v3.4H3750v-3.4Z" transform="translate(-3724.5 -582)"/>
+  <path id="Path_1169" data-name="Path 1169" class="cls-4" d="M3750,626.292h18.69v6.8H3750v-6.8Z" transform="translate(-3724.5 -582)"/>
+</svg>

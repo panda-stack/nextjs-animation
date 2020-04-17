@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.9" height="37.906" viewBox="0 0 37.9 37.906">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        opacity: 0.68;
+      }
+    </style>
+  </defs>
+  <path id="Icon_awesome-play-circle" data-name="Icon awesome-play-circle" class="cls-1" d="M1902.39,630.452a18.941,18.941,0,1,0,18.94,18.94A18.938,18.938,0,0,0,1902.39,630.452Zm8.84,20.773-13.44,7.714a1.838,1.838,0,0,1-2.73-1.6V641.45a1.839,1.839,0,0,1,2.73-1.605l13.44,8.172A1.841,1.841,0,0,1,1911.23,651.225Z" transform="translate(-1883.44 -630.438)"/>
+</svg>
