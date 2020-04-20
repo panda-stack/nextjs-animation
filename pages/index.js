@@ -34,7 +34,7 @@ class MainMenuPage extends Component {
             </Grid.Column>
           </Grid>
         </MainContentContainer>
-        <Animation_lottie robotnum="1"/>
+        <Animation_lottie/>
         <Robot />
       </PageContainer>
     );

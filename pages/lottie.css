@@ -30,7 +30,7 @@
     }
 }
 
-.lottie1 {
+.lottie_css_rotate {
     height: 300px;
     width: 300px;
     position: absolute;
@@ -40,6 +40,12 @@
     -webkit-animation-iteration-count: infinite;    
     left:65%;
     top:20%; 
+}
+
+.lottie1 {
+    height: 300px;
+    width: 300px;
+    position: absolute;
 }
 
 .lottie2 {
